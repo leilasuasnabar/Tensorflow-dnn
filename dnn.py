@@ -2,8 +2,6 @@
 # Author: Leila Suasnabar
 # Date: November 29th, 2017
 #
-# Note: Some messages (that may look like errors) will show up after running
-# the program, this is expected. This will take a few minutes to run.
 
 from __future__ import absolute_import
 from __future__ import division
